@@ -1,4 +1,4 @@
-# change_your_git_credentials
+# How change my git credentials
 
 ## Step 1
 
